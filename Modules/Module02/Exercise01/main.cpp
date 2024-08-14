@@ -1,0 +1,9 @@
+#include "Car.h"
+
+int main()
+{
+    Car myCar;
+    myCar.printParts();
+
+    return 0;
+}
